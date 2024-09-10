@@ -2,7 +2,7 @@ sddstest
 tesstt
 nadireee
 deneme
-
+git hooks test
 teeestt
 git log | head -n 1 | cut -d \' \' -f 2
 taha was here
